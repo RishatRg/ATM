@@ -1,0 +1,20 @@
++usd 10 1
++usd 200 1
+
++rub 50 2
++rub 90 1
++rub 900 1
++rub 1000 1
+
++eur 100 10
++eur 50 20
+
++gbp 10 2
++gbp 100 10
++gbp 20 10
+
+-usd 200
+-Rub 1100
+-gbp 20
+
+exit
